@@ -17,7 +17,7 @@ mindmeld==4.2.3
 nltk==3.4.5
 numpy==1.18.0
 pandas==0.25.3
-py==1.8.1
+py==1.10.0
 pycountry==19.8.18
 python-crfsuite==0.9.6
 python-dateutil==2.8.1
