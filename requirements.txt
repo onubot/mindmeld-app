@@ -15,7 +15,7 @@ Jinja2==2.10.3
 MarkupSafe==1.1.1
 mindmeld==4.2.3
 nltk==3.4.5
-numpy==1.18.0
+numpy==1.22.0
 pandas==0.25.3
 py==1.8.1
 pycountry==19.8.18
